@@ -12,3 +12,5 @@ A set of related projects built to practice some data engineering concepts
 
 ## Contributors
 - Daniel <akinpeludaniel4@gmail.com>
+- Mubarak <bellomuba.rak0@gmail.com>
+
